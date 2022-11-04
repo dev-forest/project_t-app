@@ -12,3 +12,7 @@
 ###> ide's ignore ###
 /.idea
 ###< ide's ignore ###
+
+###> project ###
+.env
+###< ide's ignore ###
